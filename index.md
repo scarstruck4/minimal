@@ -33,7 +33,7 @@ _Bachelor of Engineering in Electronics Engineering_ | Aug. 2011 – May 2015
 # Professional Experience
 
 ### Fidelity Investments | Boston, Massachusetts
-_Data Analyst/Business Intelligence Co-op_  <div style="text-align: right"> Jan. 2019 – Aug. 2019 </div>
+_Data Analyst/Business Intelligence Co-op_ | Jan. 2019 – Aug. 2019
 
 *	Analyzed and interpreted financial data under Personal Investment domain in an agile environment
 *	Collaborated with business users from Marketing Campaign Team to rebuild their Qlik Sense app by leveraging On-Demand App Generation (ODAG) which led to self-service analytics for the end users
@@ -56,9 +56,9 @@ _Infrastructure Operations Analyst_ | May 2015 – July 2017
 
 * * *
 
-# Academic Projects									       | github.com/scarstruck4
+# Academic Projects									     
 ### Northeastern University_ | Boston, MA
-_Retail Data Warehouse_ (Talend, Tableau, Power BI)
+[_Retail Data Warehouse_](https://github.com/scarstruck4/Data_Integration) (Talend, Tableau, Power BI)
 *	Developed a data warehouse for a retailer consisting of about 60 million records by creating data pipeline and integrating data from diverse data sources (MySQL, SQL Server, Oracle, PostgreSQL, flat files)
 *	Cleaned and processed data using SQL and Python; also implemented Error handling and Master Job
 *	Creating interactive dashboards to analyze customers demographics and sales using Tableau and Power BI
@@ -89,56 +89,6 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
 
 ### Small image
 

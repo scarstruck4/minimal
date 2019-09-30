@@ -6,7 +6,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 # Education
 
 ### Northeastern University | Boston, MA
-Master of Science in Information Systems                                                Dec. 2019
+Master of Science in Information Systems | Dec. 2019
 Relevant Courses: 
 * Advances in Data Science & Architecture 
 * Database Management & Database Design 
@@ -15,11 +15,20 @@ Relevant Courses:
 * Machine Learning & Python in Finance
 
 
-## Header 2
+### Nagpur University | Nagpur, India
+Bachelor of Engineering in Electronics Engineering | Aug. 2011 – May 2015
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+* * *
+
+# Skills
+
+
+| Languages    | SQL, Python (NumPy, Pandas, SciPy), R (Shiny, Ggplot2), PL/SQL, pgSQL |
+| Databases & Analysis	| MySQL, Microsoft SQL Server, Oracle, PostgreSQL, Regression, Clustering |
+| Data Visualization	| Tableau, Qlik Sense, QlikView, Power BI, R Shiny, Python (Matplotlib, Plotly, Seaborn) |
+| Tools	| Anaconda, Jupyter Notebook, PyCharm, VS Code, R Studio, Talend Studio, Alteryx, MySQL Workbench, Toad Data Modeler, Microsoft Excel, GitHub |
+
+
 
 ### Header 3
 

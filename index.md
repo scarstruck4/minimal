@@ -1,12 +1,8 @@
-<br>
-<br>
-<br>
-<br>
-
 # Education
 
 ### Northeastern University | Boston, MA
 _Master of Science in Information Systems_ | Dec. 2019
+<br>
 Relevant Courses: 
 * Advances in Data Science & Architecture 
 * Database Management & Database Design 
@@ -63,7 +59,7 @@ _Infrastructure Operations Analyst_ | May 2015 – July 2017
 *	Cleaned and processed data using SQL and Python; also implemented Error handling and Master Job
 *	Creating interactive dashboards to analyze customers demographics and sales using Tableau and Power BI
 
-_Game Store Management System_ (SQL, MySQL Workbench)
+[_Game Store Management System_](https://github.com/scarstruck4/databaseproject) (SQL, MySQL Workbench)
 *	Designed and developed a broad database of a game store to manage sales and inventory across multiple locations
 *	Constructed an Entity-Relationship model and through reverse engineering, created database schema
 *	Normalized database to 3NF; queried data using various stored procedures and wrote complex SQL joins to generate reports such as delivery time for goods and available stock

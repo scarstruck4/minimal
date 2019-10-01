@@ -3,6 +3,7 @@
 ### Northeastern University | Boston, MA
 _Master of Science in Information Systems_ | Dec. 2019
 <br>
+<br>
 Relevant Courses: 
 * Advances in Data Science & Architecture 
 * Database Management & Database Design 
@@ -68,29 +69,4 @@ _Twitter Sentiment Analysis_ (Python, Jupyter)
 *	Implemented a data streaming tool to retrieve multiple tweets using Twitter API Tweepy and python
 *	Performed sentiment analysis on fetched tweets for top 10 e-commerce websites to determine polarity of words contained in tweets to provide a quick response to negative feedbacks
 *	Visualized the analysis using word cloud
-
-
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 

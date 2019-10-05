@@ -78,3 +78,5 @@ contained in tweets to provide a quick response to negative feedbacks
 [_Image Generation Using Generative Adversarial Networks_](https://github.com/scarstruck4/Deep_Learning) (Python, Jupyter)
 * Implemented Generative Adversarial Network to generate digits by training model on MNIST dataset
 * Enhanced output image quality by applying Deep Convolutional nets, thus transforming vanilla Generative Adversarial Network to Deep Convolution Generative Adversarial Networks
+
+* * *

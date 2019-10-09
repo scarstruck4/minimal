@@ -3,3 +3,5 @@ logo: /assets/img/logo.png
 description: Data Analyst | BI Developer
 show_downloads: true
 theme: jekyll-theme-minimal
+# Google Analytics
+google_analytics: UA-54516992-1

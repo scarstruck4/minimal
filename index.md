@@ -55,8 +55,14 @@ _Infrastructure Operations Analyst_ | May 2015 – July 2017
 
 * * *
 
-# Academic Projects									     
-### Northeastern University_ | Boston, MA
+# Academic & Personal Projects									     
+
+[_Boston Downtown Analysis_](https://github.com/scarstruck4/Boston_Downtown_Analysis) (Python, Jupyter)
+* Sourced geospatial data from multiple files; filtered, processed and merged using Microsoft Excel (VLOOKUP)
+* Leveraged Foursquare API to fetch JSONs; parsed and normalized them to convert to Pandas DataFrame
+* Performed join, slicing, indexing and other operations to build final dataframe for data analysis
+* Used Bar charts, Folium maps and K-Means Clustering to analyze and visualize restaurants data
+
 [_Retail Data Warehouse_](https://github.com/scarstruck4/Data_Integration) (Talend, Tableau, Power BI)
 * Developed a data warehouse for a retailer consisting of about 60 million records by creating data pipeline and
 integrating data from diverse data sources (MySQL, SQL Server, Oracle, PostgreSQL, flat files)
@@ -69,14 +75,24 @@ integrating data from diverse data sources (MySQL, SQL Server, Oracle, PostgreSQ
 * Normalized database to 3NF; queried data using various stored procedures and wrote complex SQL joins to
 generate reports such as delivery time for goods and available stock
 
-_Twitter Sentiment Analysis_ (Python, Jupyter)
-* Implemented a data streaming tool to retrieve multiple tweets using Twitter API Tweepy and python
-* Performed sentiment analysis on fetched tweets for top 10 e-commerce websites to determine polarity of words
-contained in tweets to provide a quick response to negative feedbacks
-* Visualized the analysis using word cloud
-
 [_Image Generation Using Generative Adversarial Networks_](https://github.com/scarstruck4/Deep_Learning) (Python, Jupyter)
 * Implemented Generative Adversarial Network to generate digits by training model on MNIST dataset
 * Enhanced output image quality by applying Deep Convolutional nets, thus transforming vanilla Generative Adversarial Network to Deep Convolution Generative Adversarial Networks
 
 * * *
+
+# Certifications
+
+* [_Python for Everybody Specialization_](https://www.coursera.org/account/accomplishments/specialization/certificate/VEH5TH2PDZZ2)
+  1. Programming for Everybody (Getting Started with Python)
+  2. Python Data Structures
+  3. Using Python to Access Web Data
+  4. Using Databases with Python
+  5. Capstone: Retrieving,Processing, and Visualizing Data with Python
+
+
+* [_Applied Data Science Specialization_](https://www.coursera.org/account/accomplishments/specialization/7H7LTYXQCCLX)
+  1. Python for Data Science and AI
+  2. Data Analysis with Python
+  3. Data Visualization with Python
+  4. Applied Data Science Capstone

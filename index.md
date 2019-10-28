@@ -83,7 +83,7 @@ generate reports such as delivery time for goods and available stock
 
 # Certifications
 
-* [_Python for Everybody Specialization_](https://www.coursera.org/account/accomplishments/specialization/certificate/VEH5TH2PDZZ2)
+* [_Python for Everybody Specialization_](https://www.coursera.org/account/accomplishments/specialization/VEH5TH2PDZZ2)
   1. Programming for Everybody (Getting Started with Python)
   2. Python Data Structures
   3. Using Python to Access Web Data

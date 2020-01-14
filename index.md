@@ -23,6 +23,7 @@ _Bachelor of Engineering in Electronics Engineering_ | Aug. 2011 – May 2015
 | Languages    | SQL, Python (NumPy, Pandas, SciPy), R (Shiny, Ggplot2), PL/SQL, pgSQL |
 | Databases & Analysis	| MySQL, Microsoft SQL Server, Oracle, PostgreSQL, Regression, Clustering |
 | Data Visualization	| Tableau, Qlik Sense, QlikView, Power BI, R Shiny, Python (Matplotlib, Plotly, Seaborn) |
+| Big Data  | Apache Hadoop, Apache Hive, Apache Impala, Beeline, Hue |
 | Tools	| Anaconda, Jupyter Notebook, VS Code, R Studio, Talend Studio, Alteryx, MySQL Workbench, Toad Data Modeler, Microsoft Excel, GitHub |
 
 
